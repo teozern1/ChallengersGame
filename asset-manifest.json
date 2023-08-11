@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ChallengersGame/static/css/main.e6c13ad2.css",
+    "main.js": "/ChallengersGame/static/js/main.6b953612.js",
+    "static/js/787.9c9f1924.chunk.js": "/ChallengersGame/static/js/787.9c9f1924.chunk.js",
+    "index.html": "/ChallengersGame/index.html",
+    "main.e6c13ad2.css.map": "/ChallengersGame/static/css/main.e6c13ad2.css.map",
+    "main.6b953612.js.map": "/ChallengersGame/static/js/main.6b953612.js.map",
+    "787.9c9f1924.chunk.js.map": "/ChallengersGame/static/js/787.9c9f1924.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6b953612.js"
+  ]
+}
